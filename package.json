@@ -1,0 +1,13 @@
+{
+  "name": "arseeding-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<pawanpaudel93@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "arseeding-js": "^0.0.30",
+    "arweave": "^1.14.4",
+    "everpay": "^1.2.1"
+  }
+}
